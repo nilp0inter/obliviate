@@ -6,3 +6,4 @@ files that stagnate your Desktop folder.
 
 In combination with zfs/btrfs snapshots keeps your computer clean without
 losing any data in an automatic fashion.
+
